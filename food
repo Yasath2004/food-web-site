@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Chang Thai</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+
+    <section id="Home">
+        <nav>
+            <div class="logo">
+                <img src="image/logo.png">
+            </div>
+
+            <ul>
+                <li><a href="#Home">Home</a></li>
+                <li><a href="#About">About</a></li>
+                <li><a href="#Menu">Menu</a></li>
+                <li><a href="#Order">Testimonials</a></li>
+            </ul>
+
+        </nav>
+
+        <div class="main">
+
+            <div class="men_text">
+                <h1>Get Fresh<span>Thai Food</span></h1>
+            </div>
+
+            <div class="main_image">
+                <img src="image/main_img.png">
+            </div>
+
+        </div>
+
+        <p>
+           At Chang Thai, we invite you to experience the vibrant tastes, 
+           colors, and aromas of authentic Thai cuisine. Inspired by the 
+           rich culinary traditions of Thailand, our chefs craft each dish 
+           with care, using fresh ingredients, bold spices, and traditional 
+           recipes passed down through generations.
+
+           From the iconic Pad Thai and fragrant Green Curry, to spicy 
+           Tom Yum Soup and creamy Mango Sticky Rice, our menu offers a perfect 
+           balance of sweet, sour, salty, and spicy — the essence of Thai flavor. 
+           Whether you're a fan of fiery heat or mild comfort, there's something 
+           for everyone at Chang Thai.
+
+           Enjoy your meal in a warm and welcoming atmosphere that reflects 
+           the spirit of Thailand, complete with friendly service and elegant 
+           Thai décor. Whether it’s a quiet dinner, a family gathering, or a 
+           special occasion, Chang Thai promises an unforgettable dining experience.
+
+        <div class="main_btn">
+            <a href="#">Order Now</a>
+            <i class="fa-solid fa-angle-right"></i>
+        </div>
+
+    </section>
+
+
+    <div class="about" id="About">
+        <div class="about_main">
+
+            <div class="image">
+                <img src="image/Food-Plate.png">
+            </div>
+
+            <div class="about_text">
+                <h1><span>About</span>Us</h1>
+                <h3>Why Choose us?</h3>
+                <p>
+                    Every dish is prepared using traditional Thai recipes, fresh herbs, and bold spices. From street food favorites to royal Thai classics, you’ll enjoy a genuine taste of Thailand in every bite.
+                    Our chefs are skilled in Thai culinary techniques and committed to delivering consistently delicious and beautifully presented dishes.
+                    We believe great food starts with great ingredients. That’s why we source the freshest vegetables, premium meats, and imported Thai spices to ensure top-quality meals.
+                    Experience warm hospitality and a cozy, stylish atmosphere inspired by the culture of Thailand — perfect for a romantic dinner, family meal, or group celebration.
+
+                </p>
+            </div>
+
+        </div>
+
+        <a href="#" class="about_btn">Order Now</a>
+
+    </div>
+
+
+    <div class="menu" id="Menu">
+        <h1>Our<span>Menu</span></h1>
+
+        <div class="menu_box">
+            <div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="image/buger.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Thai Green Curry </h2>
+                    <p>A fragrant Thai dish made with tender chicken pieces, green curry paste, coconut milk, and vegetables like broccolini. It's rich, spicy, and aromatic, typically served with jasmine rice.</p>
+
+                    <h3>$20.00</h3>
+                    <div class="menu_icon">
+                        
+                    </div>
+                    <a href="#" class="menu_btn">Order Now</a>
+                </div>
+
+            </div> 
+            
+            <div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="image/pasta.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Teriyaki Chicken</h2>
+                    <p> pan-seared chicken glazed with a sweet-savory teriyaki sauce, served on a bed of steamed white rice and garnished with green onions and sesame seeds.</p>
+
+                    <h3>$20.00</h3>
+                    <div class="menu_icon">
+                        
+                    </div>
+                    <a href="#" class="menu_btn">Order Now</a>
+                </div>
+
+            </div> 
+
+            <div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="image/lasagna.webp">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Thai Classic lasagna</h2>
+                    <p>An Italian comfort food made with layers of pasta, rich meat sauce, creamy béchamel, and melted cheese, baked to golden perfection. It’s hearty and satisfying.</p>
+
+                    <h3>$20.00</h3>
+                    <div class="menu_icon">
+                        
+                    </div>
+                    <a href="#" class="menu_btn">Order Now</a>
+                </div>
+
+            </div> 
+
+            <div class="menu_card">
+
+                <div class="menu_image">
+                    <img src="image/chocolate_Drink.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Thai  Classic Iced   Tea</h2>
+                    <p>A popular Thai beverage made with brewed strong black tea, sweetened condensed milk, and cream poured over ice. It has a distinctive orange hue and a creamy, sweet.</p>
+
+                    <h3>$20.00</h3>
+                    <div class="menu_icon">
+                        
+                    </div>
+                    <a href="#" class="menu_btn">Order Now</a>
+                </div>
+
+            </div> 
+       
+        </div>
+
+    </div>
+
+
+
+    <div class="review" id="Review">
+        <h1>Customer<span>Review</span></h1>
+
+        <div class="review_box">
+            <div class="review_card">
+
+                <div class="review_profile">
+                    <img src="image/review_1.png">
+                </div>
+
+                <div class="review_text">
+                    <h2 class="name">Wasanthi</h2>
+
+                    <p>
+                        “The food was absolutely delicious! Every dish was full of flavor and cooked perfectly. I especially loved the Thai green curry – authentic and fresh. Will definitely come back!”
+
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="review_card">
+
+                <div class="review_profile">
+                    <img src="image/review_2.png">
+                </div>
+
+                <div class="review_text">
+                    <h2 class="name">Priyantha</h2>
+
+                    <p>
+                       “Excellent service from the moment we walked in. The staff were friendly, attentive, and made sure we were comfortable throughout the meal. 5 stars for hospitality!”
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="review_card">
+
+                <div class="review_profile">
+                    <img src="image/review_3.png">
+                </div>
+
+                <div class="review_text">
+                    <h2 class="name">Janani</h2>
+                    <p>
+                        “The food was great, but the wait time was a bit long. We had to wait about 30 minutes for our main course. Would be better with faster service during peak hours.”
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="review_card">
+
+                <div class="review_profile">
+                    <img src="image/review_4.png">
+                </div>
+
+                <div class="review_text">
+                    <h2 class="name">Nimal</h2>
+                    <p>
+                        “Nice place, but the music was a little too loud for comfortable conversation. Lower volume or softer background music would improve the dining experience.”
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+
+    <div class="order" id="Order">
+        <h1><span>Testimonials </span>and contact us page</h1>
+
+        <div class="order_main">
+
+            <div class="order_image">
+                <img src="image/order_image.png">
+            </div>
+
+            <form action="#">
+
+                <div class="input">
+                    <p>Name</p>
+                    <input type="text" placeholder="you name">
+                </div>
+
+                <div class="input">
+                    <p>Email</p>
+                    <input type="email" placeholder="you email">
+                </div>
+
+                <div class="input">
+                    <p>Number</p>
+                    <input placeholder="you number">
+                </div>
+
+                <div class="input">
+                <p><label for="birthdate">Birthdate</label></p>
+                <input type="date" id="birthdate" name="birthdate" required>
+            </div>
+
+
+            <div class="input">
+                <p><label>Gender</label></p>
+                <div class="input">
+                    <div class="input">
+                        <p>Male</p>
+                        <input type="radio" id="male" name="gender" value="male" required>
+                        
+                    </div>
+                    <div class="input">
+                        <p>Female</p>
+                        <input type="radio" id="female" name="gender" value="female">
+                        
+                    </div>
+                    <div class="input">
+                        <p>Other</p>
+                        <input type="radio" id="other" name="gender" value="other">
+                        
+                    </div>
+                </div>
+            </div>
+
+               <a href="#" class="order_btn">submit Now</a>
+
+            </form>
+
+        </div>
+
+    </div>
+
+    <footer>
+        <div class="footer_main">
+
+            <div class="footer_tag">
+                <h2>Location</h2>
+                <p>Sri Lanka</p>
+            </div>
+
+            <div class="footer_tag">
+                <h2>Quick Link</h2>
+                <p>Home</p>
+                <p>About</p>
+                <p>Menu</p>
+                <p>cantact</p>
+            </div>
+
+            <div class="footer_tag">
+                <h2>Contact</h2>
+                <p>+94 74 215 2362</p>
+                <p>+94 25 5568456</p>
+                <p>changthai@gmail.com</p>
+                
+            </div>
+
+            <div class="footer_tag">
+                <h2>Our Service</h2>
+                <p>Fast Delivery</p>
+                <p>Easy Payments</p>
+                <p>24 x 7 Service</p>
+            </div>
+
+        </div>
+
+
+    </footer>
+
+    
+</body>
+</html>
